@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">📄 مساعد صفحات PDF</string>
+    <string name="app_subtitle">جهّز صفحات PDF بسهولة قبل الطباعة</string>
+    <string name="select_file_instruction">اختر ملف PDF وحدد الصفحات التي تريد تجهيزها.</string>
+    <string name="btn_select_pdf">📂 اختيار ملف PDF</string>
+    <string name="file_name_label">اسم الملف:</string>
+    <string name="total_pages_label">عدد الصفحات:</string>
+    <string name="pages_unit">صفحة</string>
+    <string name="select_pages_section">اختر الصفحات:</string>
+
+    <string name="option_odd_title">🔘 الصفحات الفردية</string>
+    <string name="option_odd_sub">استخراج:\n1، 3، 5، 7، 9...</string>
+
+    <string name="option_even_title">🔘 الصفحات الزوجية</string>
+    <string name="option_even_sub">استخراج:\n2، 4، 6، 8، 10...</string>
+
+    <string name="option_all_title">🔘 كل الصفحات</string>
+    <string name="option_all_sub">استخدام جميع صفحات الملف.</string>
+
+    <string name="btn_process_pdf">⚙️ تجهيز ملف PDF</string>
+
+    <string name="processing_title">⏳ جارٍ تجهيز الملف...</string>
+    <string name="processing_status">جارٍ تجهيز الصفحات %1$d من %2$d</string>
+
+    <string name="result_success_title">✅ تم تجهيز الملف بنجاح</string>
+    <string name="original_file_label">الملف الأصلي:</string>
+    <string name="original_pages_label">عدد الصفحات الأصلية:</string>
+    <string name="page_type_label">نوع الصفحات:</string>
+    <string name="new_pages_label">عدد الصفحات الجديدة:</string>
+    <string name="new_file_label">اسم الملف الجديد:</string>
+
+    <string name="btn_save_file">💾 حفظ الملف</string>
+    <string name="btn_share_file">📤 مشاركة الملف</string>
+    <string name="btn_select_another">🔄 اختيار ملف آخر</string>
+
+    <string name="error_invalid_pdf">❌ ملف PDF غير صالح أو تالف.</string>
+    <string name="error_cannot_open">❌ تعذر فتح ملف PDF.</string>
+    <string name="error_no_storage">❌ لا توجد مساحة تخزين كافية.</string>
+    <string name="error_general">❌ حدث خطأ أثناء تجهيز الملف.</string>
+    <string name="file_saved_success">تم حفظ الملف بنجاح</string>
+</resources>
